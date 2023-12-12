@@ -10,7 +10,7 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently a Computer Science graduate student</li>
-    <li>🔭 I’m working at Sony Playstation as Software Engineer Intern</li>
+    <li>👨‍💻‍ I’m working at Sony Playstation as Software Engineer Intern</li>
     <li>👀 I'm interested in Java, Golang, Backend, and Cloud stuff</li>
     <li>📙 Check out my <a href="https://github.com/liuhangfan/Resume/blob/main/Hangfan_Liu_Software_Engineer.pdf">resume</a>.</li>
   </ul>
